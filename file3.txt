@@ -1,0 +1,5 @@
+A for AI
+B for BlockChain
+C for ChatGPT
+D for Docker
+E for Engineering
